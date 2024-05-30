@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DroidQuest</string>
+
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+    <string name="next_button">Далее</string>
+    <string name="back_button">Назад</string>
+    <string name="question_android">OC Android основана на ядре
+Linux.</string>
+    <string name="question_linear">Разметка LinearLayout позиционирует
+свои дочерние элементы в строки и столбцы.</string>
+    <string name="question_service">Компонент Android-приложения Service
+предоставляют доступ к данным.</string>
+    <string name="question_res">Ресурсы приложения содержатся в отдельном
+файле XML.</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет
+системе основную информацию о программе.</string>
+    <string name="question_1">Android Studio является официальной IDE от Google для создания приложений под Android, TV OS и Wear OS на Java и Kotlin</string>
+    <string name="question_2">JavaScript – лучший язык программирования для мобильных приложений, созданных для Android и iOS, и даже для PWA (прогрессивных веб-приложений)</string>
+    <string name="question_3">JDK представляет собой пакет инструментов для разработки программного обеспечения, тогда как JRE представляет собой пакет инструментов для запуска Java-кода</string>
+    <string name="question_4">Kotlin — это язык программирования, созданный в компании JetBrains. </string>
+    <string name="question_5">AndroidStudio – это интегрированная среда разработки для работы с платформой Android.</string>
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть !</string>
+    <string name="judgment_toast">Обманывать нельзя.</string>
+
+    <string name="title_activity_deceit">name</string>
+</resources>
